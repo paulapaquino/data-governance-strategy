@@ -13,5 +13,5 @@ Identificar limitações e propor melhorias para fortalecimento do uso de dados 
 
 ## Documentos
 
-- Policy Brief: (em breve)
-- Relatório completo: (em breve)
+- Policy Brief: (./policy-brief.pdf)
+- Relatório completo: (./full-report.pdf)
