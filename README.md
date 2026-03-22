@@ -9,6 +9,7 @@ This repository contains projects focused on:
 - Public Sector Data
 
 ## Project 1: CRIB Score - Minas Gerais
+[Ver projeto](./project-crib-score)
 
 Objective:
 Analyze data quality and governance gaps in CRIB Score dataset.
